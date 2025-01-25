@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int myAge; //this is first
     printf("What is your age?");
     scanf("%d", &myAge);
